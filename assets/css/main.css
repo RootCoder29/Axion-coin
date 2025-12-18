@@ -14208,7 +14208,7 @@ li.has-dropdown1 span {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  height: auto;            
+  height: 56px;            
   max-width: 137px;          
   border-radius: 5px;
   overflow: hidden;
