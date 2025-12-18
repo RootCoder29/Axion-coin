@@ -14215,7 +14215,7 @@ li.has-dropdown1 span {
   transition: all 0.4s ease;
 }
 
-.btn_image_link img {
+.btn_image_link .buy-22 {
   width: 100%;
   height: 100%;
   object-fit: cover;
@@ -14227,7 +14227,7 @@ li.has-dropdown1 span {
   transform: translateY(-5px);
 }
 
-.btn_image_link:hover img {
+.btn_image_link:hover .buy-22 {
   transform: scale(1.08);
 }
 
