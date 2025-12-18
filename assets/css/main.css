@@ -14220,6 +14220,7 @@ li.has-dropdown1 span {
   height: 100%;
   object-fit: cover;
   transition: transform 0.4s ease;
+  border-radius: 5px;
 }
 
 /* Hover animation */
