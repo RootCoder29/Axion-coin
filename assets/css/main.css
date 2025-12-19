@@ -14213,6 +14213,8 @@ li.has-dropdown1 span {
   border-radius: 5px;
   overflow: hidden;
   transition: all 0.4s ease;
+  background-color: black;
+  border: 1px solid var(--vtc-bg-bg-white);
 }
 
 .btn_image_link .buy-22 {
